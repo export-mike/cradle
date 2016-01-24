@@ -1,5 +1,5 @@
 {
-  "name": "cradle",
+  "name": "cradle-mj-fork",
   "version": "0.7.1",
   "description": "the high-level, caching, CouchDB library",
   "url": "http://cloudhead.io/cradle",
